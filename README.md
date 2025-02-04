@@ -1,5 +1,10 @@
 # Expandiendo la Memoria Interna del Mini Router GL.iNet AR300M16 con una Memoria USB
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c1b8f42-2f69-4cae-bc31-5a09c7aa8a8c" width="300" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/0c824499-30d9-4872-bbdc-18c02a2781e8" width="300" style="display: inline-block;">
+</p>
+
 ## Descripción
 
 Este repositorio proporciona una guía paso a paso para extender la memoria interna del mini router GL.iNet AR300M16 utilizando una memoria USB. Esto es útil para instalar paquetes adicionales o almacenar archivos sin preocuparse por el espacio limitado de la memoria interna del dispositivo.
